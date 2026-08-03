@@ -1,0 +1,9 @@
+que es una api dominar api API REST(end poin pad delete) api rest full implementacion 
+request
+data frame
+DDL completo ( CREATE TABLE) y DML ( INSERT INTO).
+BeautifulSoup BeautifulSoup(response.content, 'html.parser')
+control de errores (200) 300 400 500
+crear una uml
+Diagrama UML obligatorio.
+parsear: 

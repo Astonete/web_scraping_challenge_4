@@ -1,0 +1,1001 @@
+id_libro,titulo_libro,precio_libro,calificacion_libro,categoria,autores
+1,It's Only the Himalayas,45.17,2,Travel,Autor Desconocido
+2,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,4,Travel,Autor Desconocido
+3,See America: A Celebration of Our National Parks & Treasured Sites,48.87,3,Travel,John Quincy Adams Ward
+4,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,2,Travel,White Wolf Publishing
+5,Under the Tuscan Sun,37.33,3,Travel,Random House
+6,A Summer In Europe,44.34,2,Travel,PPP-adjusted GDP
+7,The Great Railway Bazaar,30.54,1,Travel,Autor Desconocido
+8,A Year in Provence (Provence #1),56.88,4,Travel,Ridley Scott
+9,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,1,Travel,Autor Desconocido
+10,Neither Here nor There: Travels in Europe,38.95,3,Travel,Autor Desconocido
+11,"1,000 Places to See Before You Die",26.08,5,Travel,Patricia Schultz
+12,Sharp Objects,47.82,4,Mystery,Autor Desconocido
+13,"In a Dark, Dark Wood",19.63,1,Mystery,Jim Barton
+14,The Past Never Ends,56.5,4,Mystery,Virgin Records
+15,A Murder in Time,16.64,1,Mystery,Patrick Smith Kelly. It
+16,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,4,Mystery,Sophie Hannah
+17,The Last Mile (Amos Decker #2),54.21,2,Mystery,David Baldacci. The
+18,That Darkness (Gardiner and Renner #1),13.92,1,Mystery,Sam Raimi. It
+19,Tastes Like Fear (DI Marnie Rome #3),10.69,1,Mystery,Wesley Strick
+20,A Time of Torment (Charlie Parker #14),48.35,5,Mystery,Quentin Tarantino
+21,A Study in Scarlet (Sherlock Holmes #1),16.73,2,Mystery,Steven Moffat
+22,Poisonous (Max Revere Novels #3),26.8,3,Mystery,Loma Vista Recordings
+23,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,4,Mystery,Frank Vosper
+24,Most Wanted,35.28,3,Mystery,The Simpsons
+25,Hide Away (Eve Duncan #20),11.84,1,Mystery,Chris Eyre
+26,Boar Island (Anna Pigeon #19),59.48,3,Mystery,Autor Desconocido
+27,The Widow,27.26,2,Mystery,Autor Desconocido
+28,Playing with Fire,13.71,3,Mystery,Spears. Released
+29,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,5,Mystery,Adam Woodyatt
+30,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,5,Mystery,Autor Desconocido
+31,Delivering the Truth (Quaker Midwife Mystery #1),20.89,4,Mystery,Salman Khan Films
+32,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,4,Mystery,Sophie Hannah
+33,In the Woods (Dublin Murder Squad #1),38.38,2,Mystery,James Lapine
+34,The Silkworm (Cormoran Strike #2),23.05,5,Mystery,J. K. Rowling
+35,The Exiled,43.45,3,Mystery,Michael Czerny
+36,The Cuckoo's Calling (Cormoran Strike #1),19.21,1,Mystery,Ken Kesey
+37,Extreme Prey (Lucas Davenport #26),25.4,3,Mystery,Pulitzer Prize
+38,Career of Evil (Cormoran Strike #3),24.72,2,Mystery,J. K. Rowling
+39,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,4,Mystery,Alexander McCall Smith
+40,The Girl You Lost,12.29,5,Mystery,Riri Sagara
+41,The Girl In The Ice (DCI Erika Foster #1),15.85,3,Mystery,Robert Rodriguez
+42,Blood Defense (Samantha Brinkman #1),20.3,3,Mystery,Marcia Clark
+43,1st to Die (Women's Murder Club #1),53.98,1,Mystery,James Patterson
+44,Tipping the Velvet,53.74,1,Historical Fiction,Charles Dickens
+45,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,3,Historical Fiction,Autor Desconocido
+46,A Flight of Arrows (The Pathfinders #2),55.53,5,Historical Fiction,Avro Canada
+47,The House by the Lake,36.95,1,Historical Fiction,Josh Burnell. The
+48,Mrs. Houdini,30.25,5,Historical Fiction,Philip Yordan
+49,The Marriage of Opposites,28.08,4,Historical Fiction,Autor Desconocido
+50,Glory over Everything: Beyond The Kitchen House,45.84,3,Historical Fiction,Kaz Ayabe
+51,"Love, Lies and Spies",20.55,2,Historical Fiction,Joseph Kahn
+52,A Paris Apartment,39.01,4,Historical Fiction,Michelle Gable. Set
+53,Lilac Girls,17.28,2,Historical Fiction,Ayano Takeda
+54,The Constant Princess (The Tudor Court #1),16.62,3,Historical Fiction,Philippa Gregory
+55,The Invention of Wings,37.34,1,Historical Fiction,Autor Desconocido
+56,World Without End (The Pillars of the Earth #2),32.97,4,Historical Fiction,Richard Heermance
+57,The Passion of Dolssa,28.32,5,Historical Fiction,Autor Desconocido
+58,Girl With a Pearl Earring,26.77,1,Historical Fiction,Johannes Vermeer
+59,Voyager (Outlander #3),21.07,5,Historical Fiction,Rick Berman
+60,The Red Tent,35.66,5,Historical Fiction,Anita Diamant
+61,The Last Painting of Sara de Vos,55.55,2,Historical Fiction,Australian Independent Booksellers
+62,The Guernsey Literary and Potato Peel Pie Society,49.53,1,Historical Fiction,Kevin Hood
+63,Girl in the Blue Coat,46.83,2,Historical Fiction,Autor Desconocido
+64,Between Shades of Gray,20.79,5,Historical Fiction,Kelly Marcel
+65,While You Were Mine,41.32,5,Historical Fiction,Hamilton Leithauser
+66,The Secret Healer,34.56,3,Historical Fiction,Rui Tsukiyo
+67,Starlark,25.83,3,Historical Fiction,Leslie Lamport
+68,Lost Among the Living,27.7,4,Historical Fiction,Jeffrey Lieber
+69,A Spy's Devotion (The Regency Spies of London #1),16.97,5,Historical Fiction,Rolling Stone
+70,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,Sequential Art,Fourth Estate
+71,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,1,Sequential Art,Yuki Kajiura
+72,This One Summer,19.49,4,Sequential Art,Savage Steve Holland
+73,The Nameless City (The Nameless City #1),38.16,4,Sequential Art,Autor Desconocido
+74,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,2,Sequential Art,Dr. Kabapu
+75,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,3,Sequential Art,Image Comics
+76,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,5,Sequential Art,DC Comics
+77,"Pop Gun War, Volume 1: Gift",18.97,1,Sequential Art,The Lucky Ones
+78,Patience,10.16,3,Sequential Art,Autor Desconocido
+79,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,4,Sequential Art,Marvel Studios
+80,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,1,Sequential Art,Columbia Records
+81,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,2,Sequential Art,Shannon Watters
+82,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,3,Sequential Art,Shannon Watters
+83,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,2,Sequential Art,Becky Cloonan
+84,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,2,Sequential Art,Autor Desconocido
+85,I am a Hero Omnibus Volume 1,54.63,3,Sequential Art,Kengo Hanazawa
+86,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,2,Sequential Art,Marvel Comics
+87,Danganronpa Volume 1,51.99,4,Sequential Art,Takekuni Kitayama
+88,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,4,Sequential Art,Warren Ellis
+89,Camp Midnight,17.08,4,Sequential Art,Will Duffy
+90,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,2,Sequential Art,Alan Moore
+91,The Shadow Hero (The Shadow Hero),33.14,1,Sequential Art,Rural Home Publications
+92,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,4,Sequential Art,Bill Willingham
+93,Batman: The Long Halloween (Batman),36.5,2,Sequential Art,Jeph Loeb
+94,Batman: The Dark Knight Returns (Batman),15.38,5,Sequential Art,Jay Oliva
+95,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,4,Sequential Art,Geoff Johns
+96,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,1,Sequential Art,DC Comics
+97,Through the Woods,25.38,2,Sequential Art,Joe DiPietro
+98,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,5,Sequential Art,Kirk Alyn
+99,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,4,Sequential Art,Viz Media
+100,Robin War,47.82,3,Sequential Art,DC Comics
+101,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,2,Sequential Art,Jim Starlin
+102,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,2,Sequential Art,Masashi Koizuka
+103,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,2,Sequential Art,Steve Kirk
+104,El Deafo,57.62,5,Sequential Art,Cece Bell
+105,Batman: Europa,32.01,2,Sequential Art,Brian Azzarello
+106,Art Ops Vol. 1,48.8,3,Sequential Art,Marvel Comics
+107,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,2,Sequential Art,Autor Desconocido
+108,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,4,Sequential Art,Natsuki Takaya
+109,Roller Girl,14.1,5,Sequential Art,Justin Herman.
+110,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,1,Sequential Art,Natsuki Takaya
+111,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,4,Sequential Art,Natsuki Takaya
+112,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,3,Sequential Art,Tsugumi Ohba
+113,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,1,Sequential Art,Natsuki Takaya
+114,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,1,Sequential Art,Sylvester Stallone. Later
+115,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,2,Sequential Art,Masashi Kishimoto
+116,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,4,Sequential Art,Natsuki Takaya
+117,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,3,Sequential Art,Image Comics
+118,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,5,Sequential Art,Mike Carey
+119,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,5,Sequential Art,Dr. Kabapu
+120,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,3,Sequential Art,Walt Disney Pictures
+121,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,1,Sequential Art,Marjane Satrapi
+122,Original Fake,31.45,3,Sequential Art,Capitol Records
+123,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,1,Sequential Art,DC Comics
+124,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,2,Sequential Art,Natsuki Takaya
+125,"Black Butler, Vol. 1 (Black Butler #1)",49.31,1,Sequential Art,Yana Toboso
+126,Awkward,38.02,2,Sequential Art,Autor Desconocido
+127,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,1,Sequential Art,Mike Carey
+128,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,3,Sequential Art,Dr. Kabapu
+129,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,5,Sequential Art,Natsuki Takaya
+130,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,4,Sequential Art,Autor Desconocido
+131,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,2,Sequential Art,Christopher Marlowe
+132,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,3,Sequential Art,Mike Carey
+133,The Complete Maus (Maus #1-2),10.64,3,Sequential Art,Autor Desconocido
+134,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,3,Sequential Art,Autor Desconocido
+135,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,1,Sequential Art,Brian K. Vaughan
+136,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,5,Sequential Art,Image Comics
+137,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,4,Sequential Art,Image Comics
+138,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,3,Sequential Art,Bisco Hatori
+139,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,4,Sequential Art,Marvel Comics
+140,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,3,Sequential Art,James Gunn
+141,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,4,Sequential Art,Marvel Comics
+142,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,5,Sequential Art,Natsuki Takaya
+143,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,5,Sequential Art,Tite Kubo
+144,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,4,Sequential Art,Gamon Sakurai
+145,The Secret Garden,15.08,4,Classics,M. L. Kirk
+146,The Metamorphosis,28.58,1,Classics,Kurt Wolff
+147,The Pilgrim's Progress,50.26,2,Classics,John Bunyan
+148,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,2,Classics,Sir Arthur Conan Doyle
+149,Little Women (Little Women #1),28.07,4,Classics,Andrew Solt
+150,Gone with the Wind,32.49,3,Classics,Margaret Mitchell
+151,Candide,58.63,3,Classics,Lillian Hellman
+152,Animal Farm,57.22,3,Classics,George Orwell
+153,Wuthering Heights,17.73,3,Classics,Emerald Fennell
+154,The Picture of Dorian Gray,29.7,2,Classics,Basil Hallward
+155,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,4,Classics,James Fenton
+156,Beowulf,38.35,2,Classics,Neil Gaiman
+157,And Then There Were None,35.01,2,Classics,Harry Alan Towers
+158,The Story of Hong Gildong,43.19,4,Classics,Autor Desconocido
+159,The Little Prince,45.42,2,Classics,Alan Jay Lerner
+160,Sense and Sensibility,37.46,1,Classics,Andrew Davies
+161,Of Mice and Men,47.11,2,Classics,Joey Sturgis
+162,Emma,32.93,2,Classics,Marvel Comics
+163,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,1,Classics,Lewis Carroll
+164,Sophie's World,15.94,5,Philosophy,Jostein Gaarder
+165,The Death of Humanity: and the Case for Life,58.11,4,Philosophy,Jonathan Swift
+166,The Stranger,17.44,4,Philosophy,Columbia Records
+167,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,1,Philosophy,Saint Ambrose
+168,Kierkegaard: A Christian Missionary to Christians,47.13,1,Philosophy,Autor Desconocido
+169,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,5,Philosophy,Autor Desconocido
+170,Critique of Pure Reason,20.75,1,Philosophy,Autor Desconocido
+171,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,1,Philosophy,Ingrid Newkirk
+172,The Nicomachean Ethics,36.34,1,Philosophy,Albertus Magnus
+173,Meditations,25.89,2,Philosophy,Marcus Aurelius
+174,Beyond Good and Evil,43.38,1,Philosophy,Helen Zimmern
+175,Chase Me (Paris Nights #2),25.27,5,Romance,Kid Koala
+176,Black Dust,34.53,5,Romance,Autor Desconocido
+177,Her Backup Boyfriend (The Sorensen Family #1),33.97,1,Romance,Dave Meyers
+178,First and First (Five Boroughs #3),15.97,4,Romance,Ronald K.L. Collins
+179,Fifty Shades Darker (Fifty Shades #2),21.96,1,Romance,Niall Leonard
+180,The Wedding Dress,24.12,1,Romance,Autor Desconocido
+181,Suddenly in Love (Lake Haven #1),55.99,2,Romance,Wong Jing
+182,Something More Than This,16.24,4,Romance,Jason Isbell
+183,Doing It Over (Most Likely To #1),35.61,3,Romance,Virgin Records
+184,The Wedding Pact (The O'Malleys #2),32.61,3,Romance,Matt Berman
+185,Hold Your Breath (Search and Rescue #1),28.82,1,Romance,Rich Lee
+186,Dirty (Dive Bar #1),40.83,4,Romance,Eleanor Bergstein
+187,Take Me Home Tonight (Rock Star Romance #3),53.98,3,Romance,Eddie Money
+188,Off the Hook (Fishing for Trouble #1),47.67,3,Romance,Jermaine Dupri
+189,A Gentleman's Position (Society of Gentlemen #3),14.75,5,Romance,Steven Lutvak
+190,"Sit, Stay, Love",20.9,3,Romance,Holly Hester
+191,A Girl's Guide to Moving On (New Beginnings #2),31.3,1,Romance,Autor Desconocido
+192,The Perfect Play (Play by Play #1),59.99,3,Romance,Warren Manzi
+193,Dark Lover (Black Dagger Brotherhood #1),12.87,1,Romance,Jess Walter
+194,Changing the Game (Play by Play #2),13.38,3,Romance,Rel Dowdell
+195,A Walk to Remember,56.43,1,Romance,Karen Janszen
+196,The Purest Hook (Second Circle Tattoos #3),12.25,1,Romance,Ravi K. Chandran
+197,The Obsession,45.43,1,Romance,Shyam Benegal
+198,Reservations for Two,11.1,3,Romance,Tena Clark
+199,Best of My Love (Fool's Gold #20),27.41,2,Romance,Don Henley
+200,Where Lightning Strikes (Bleeding Stars #3),39.77,3,Romance,Autor Desconocido
+201,This One Moment (Pushing Limits #1),48.71,1,Romance,Jesse Landry
+202,"Rhythm, Chord & Malykhin",28.34,2,Romance,Autor Desconocido
+203,My Perfect Mistake (Over the Top #1),38.92,2,Romance,Nicole Conn
+204,Listen to Me (Fusion #1),58.99,3,Romance,Buddy Holly
+205,Imperfect Harmony,34.74,4,Romance,Autor Desconocido
+206,Fighting Fate (Fighting #6),39.24,3,Romance,Arista Records
+207,Deep Under (Walker Security #1),47.09,5,Romance,Wolf Entertainment
+208,Charity's Cross (Charles Towne Belles #4),41.24,1,Romance,Autor Desconocido
+209,Bounty (Colorado Mountain #7),37.26,4,Romance,Arech Dragonbreath
+210,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,4,Womens Fiction,Ian Fleming
+211,Will You Won't You Want Me?,13.86,3,Womens Fiction,Harlan Coben
+212,Keep Me Posted,20.46,4,Womens Fiction,Paul Stolper Gallery
+213,Grey (Fifty Shades #4),48.49,4,Womens Fiction,Guy Ritchie
+214,Meternity,43.58,3,Womens Fiction,Autor Desconocido
+215,Some Women,13.73,5,Womens Fiction,Autor Desconocido
+216,Shopaholic Ties the Knot (Shopaholic #3),48.39,5,Womens Fiction,Sophie Kinsella
+217,Can You Keep a Secret?,21.94,1,Womens Fiction,Simon Mayhew-Archer
+218,Twenties Girl,42.8,2,Womens Fiction,Jerry Wald
+219,The Undomestic Goddess,45.75,4,Womens Fiction,Autor Desconocido
+220,The Nanny Diaries (Nanny #1),52.53,5,Womens Fiction,Autor Desconocido
+221,The Devil Wears Prada (The Devil Wears Prada #1),44.29,1,Womens Fiction,Aline Brosh McKenna
+222,Something Borrowed (Darcy & Rachel #1),48.96,5,Womens Fiction,Phil Ford
+223,Something Blue (Darcy & Rachel #2),54.62,1,Womens Fiction,Luke Greenfield
+224,I've Got Your Number,19.69,1,Womens Fiction,Warner Bros
+225,The Edge of Reason (Bridget Jones #2),19.18,4,Womens Fiction,Andrew Davies
+226,Bridget Jones's Diary (Bridget Jones #1),29.82,1,Womens Fiction,Helen Fielding
+227,Soumission,50.1,1,Fiction,King Leopold II
+228,Private Paris (Private #10),47.61,5,Fiction,Autor Desconocido
+229,"We Love You, Charlie Freeman",50.27,5,Fiction,Turning Point USA
+230,Thirst,17.27,5,Fiction,Park Chan-wook
+231,The Murder That Never Was (Forensic Instincts #5),54.11,3,Fiction,Snoop Doggy Dogg
+232,Tuesday Nights in 1980,21.04,2,Fiction,Ernest Tidyman
+233,The Vacationers,42.15,4,Fiction,Electronic Arts
+234,The Regional Office Is Under Attack!,51.36,5,Fiction,Manuel Gonzales
+235,Finders Keepers (Bill Hodges Trilogy #2),53.53,5,Fiction,Richard Lester
+236,The Time Keeper,27.88,5,Fiction,Robert Rodriguez
+237,The Testament of Mary,52.67,4,Fiction,Autor Desconocido
+238,The First Hostage (J.B. Collins #2),25.85,3,Fiction,Autor Desconocido
+239,Take Me with You,45.21,3,Fiction,John Ratcliff
+240,Still Life with Bread Crumbs,26.41,3,Fiction,Autor Desconocido
+241,Shtum,55.84,4,Fiction,Rough Trade Records
+242,My Name Is Lucy Barton,41.56,1,Fiction,Random House
+243,My Mrs. Brown,24.48,3,Fiction,Thelma Ritter
+244,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,1,Fiction,Finders Keepers
+245,I Am Pilgrim (Pilgrim #1),10.6,4,Fiction,Norfolk Jubilee Quartet
+246,Eligible (The Austen Project #4),27.09,3,Fiction,Gopi Sundar
+247,Eight Hundred Grapes,14.39,4,Fiction,Autor Desconocido
+248,Dear Mr. Knightley,11.21,5,Fiction,Ian McEwan
+249,Cometh the Hour (The Clifton Chronicles #6),25.01,3,Fiction,Dark Horse Comics
+250,Balloon Animals,17.03,3,Fiction,Autor Desconocido
+251,A Man Called Ove,39.72,1,Fiction,David Magee
+252,The Silent Sister (Riley MacPherson #1),46.29,5,Fiction,Konami Digital Entertainment
+253,The Dinner Party,56.54,2,Fiction,Paul Feig
+254,The Improbability of Love,59.45,1,Fiction,Autor Desconocido
+255,Mothering Sunday,13.34,2,Fiction,Eva Husson
+256,Lies and Other Acts of Love,45.14,1,Fiction,Mu Fusheng
+257,Daredevils,16.34,3,Fiction,Mark Steven Johnson
+258,11/22/63,48.48,3,Fiction,Stephen King
+259,The Shack,28.03,1,Fiction,General Wireless
+260,The High Mountains of Portugal,51.15,1,Fiction,Ang Lee
+261,Miller's Valley,58.54,2,Fiction,Mike Judge
+262,Hystopia: A Novel,21.96,4,Fiction,David Means
+263,The Bourne Identity (Jason Bourne #1),42.78,4,Fiction,Matt Damon
+264,Sister Dear,40.2,4,Fiction,Rob Cavallo
+265,Memoirs of a Geisha,49.67,3,Fiction,Robin Swicord. The
+266,Me Before You (Me Before You #1),19.02,1,Fiction,Jojo Moyes. It
+267,Deception Point,40.32,4,Fiction,Lieutenant Commander D.N. Penfold
+268,The Little Paris Bookshop,24.73,3,Fiction,George Whitman
+269,The Firm,45.56,3,Fiction,Sydney Pollack
+270,The Expatriates,44.58,2,Fiction,Lulu Wang
+271,Siddhartha,34.22,5,Fiction,Autor Desconocido
+272,Last One Home (New Beginnings #1),59.98,3,Fiction,John Ehle. The
+273,Digital Fortress,58.0,5,Fiction,Autor Desconocido
+274,Atlas Shrugged,26.58,5,Fiction,Ayn Rand
+275,Three-Martini Lunch,23.21,3,Fiction,Autor Desconocido
+276,The Nightingale,26.26,4,Fiction,Dana Stevens
+277,The Infinities,27.41,1,Fiction,Christopher Markus
+278,The Husband's Secret,52.51,5,Fiction,Liane Moriarty
+279,The Da Vinci Code (Robert Langdon #2),22.96,2,Fiction,Dan Brown
+280,The Art of Fielding,22.1,1,Fiction,Autor Desconocido
+281,Lila (Gilead #3),12.47,3,Fiction,Martin Suter
+282,Jurassic Park (Jurassic Park #1),44.97,1,Fiction,Michael Crichton
+283,Inferno (Robert Langdon #4),41.0,5,Fiction,David Koepp. It
+284,Crazy Rich Asians (Crazy Rich Asians #1),49.13,5,Fiction,Kevin Kwan
+285,Big Little Lies,22.11,1,Fiction,David E. Kelley
+286,The Course of Love,16.78,3,Fiction,Helen Schucman
+287,When I'm Gone,51.96,3,Fiction,A. P. Carter
+288,The Silent Wife,12.34,5,Fiction,Team Silent
+289,The Bette Davis Club,30.66,3,Fiction,Susan Sarandon
+290,Kitchens of the Great Midwest,57.2,5,Fiction,Viking Press
+291,Bright Lines,39.07,5,Fiction,Autor Desconocido
+292,Birdsong: A Story in Pictures,54.64,3,Childrens,Jean Terrell
+293,The Bear and the Piano,36.89,1,Childrens,Animaccord Animation Studio
+294,The Secret of Dreadwillow Carse,56.13,1,Childrens,Autor Desconocido
+295,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,4,Childrens,Sydney Smith
+296,Little Red,13.47,3,Childrens,Charles Perrault
+297,Walt Disney's Alice in Wonderland,12.96,5,Childrens,Walt Disney
+298,Twenty Yawns,22.08,2,Childrens,Danny Boyle
+299,Rain Fish,23.57,3,Childrens,Autor Desconocido
+300,Once Was a Time,18.28,2,Childrens,Lewis Carroll
+301,Luis Paints the World,53.95,3,Childrens,Two Women
+302,Nap-a-Roo,25.08,1,Childrens,Keith Chapman
+303,The Whale,35.96,4,Childrens,Samuel D. Hunter
+304,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,3,Childrens,Autor Desconocido
+305,Raymie Nightingale,34.41,2,Childrens,Autor Desconocido
+306,Playing from the Heart,32.38,1,Childrens,Max Martin
+307,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,1,Childrens,Kelly Galuska.
+308,The Wild Robot,56.07,3,Childrens,DreamWorks Animation
+309,The Thing About Jellyfish,48.77,1,Childrens,Ali Benjamin
+310,The Lonely Ones,43.59,5,Childrens,Autor Desconocido
+311,The Day the Crayons Came Home (Crayons),26.33,5,Childrens,Oliver Jeffers
+312,The Cat in the Hat (Beginner Books B-1),16.26,2,Childrens,William Spaulding
+313,Red: The True Story of Red Riding Hood,28.54,3,Childrens,Charles Perrault
+314,Horrible Bear!,37.52,2,Childrens,Adam Wingard
+315,Green Eggs and Ham (Beginner Books B-16),10.79,4,Childrens,Dr. Seuss
+316,Counting Thyme,10.62,1,Childrens,The Irish Times
+317,Are We There Yet?,10.66,3,Childrens,Hank Nelken
+318,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,4,Childrens,Autor Desconocido
+319,Matilda,28.34,1,Childrens,Jonathan Cape
+320,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,3,Childrens,Alfred A. Knopf
+321,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,2,Religion,Autor Desconocido
+322,You Are What You Love: The Spiritual Power of Habit,21.87,4,Religion,Saint Paul
+323,God: The Most Unpleasant Character in All Fiction,30.03,5,Religion,Autor Desconocido
+324,The Book of Mormon,24.57,3,Religion,Trey Parker
+325,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,1,Religion,Edward Tylor
+326,The Bhagavad Gita,57.49,3,Religion,Macmillan Publishers
+327,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,4,Religion,Autor Desconocido
+328,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,5,Nonfiction,Kader Khan. Released
+329,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,3,Nonfiction,Greg Daniels
+330,Reasons to Stay Alive,26.41,2,Nonfiction,Amir Amor
+331,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,5,Nonfiction,Autor Desconocido
+332,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,4,Nonfiction,Autor Desconocido
+333,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,3,Nonfiction,Ruhollah Khomeini
+334,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,3,Nonfiction,Kelly Bishop
+335,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,1,Nonfiction,Autor Desconocido
+336,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,1,Nonfiction,One World Trade Center
+337,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,4,Nonfiction,Autor Desconocido
+338,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,2,Nonfiction,Klaus Schwab
+339,In the Country We Love: My Family Divided,22.0,4,Nonfiction,Autor Desconocido
+340,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,2,Nonfiction,Autor Desconocido
+341,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,5,Nonfiction,Autor Desconocido
+342,Algorithms to Live By: The Computer Science of Human Decisions,30.81,1,Nonfiction,MIT Technology Review
+343,The Power of Now: A Guide to Spiritual Enlightenment,43.54,2,Nonfiction,Oprah Winfrey
+344,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,2,Nonfiction,Autor Desconocido
+345,The Genius of Birds,17.24,1,Nonfiction,Walter Isaacson
+346,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,5,Nonfiction,Autor Desconocido
+347,So You've Been Publicly Shamed,12.23,2,Nonfiction,James Hawes
+348,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,3,Nonfiction,Autor Desconocido
+349,Big Magic: Creative Living Beyond Fear,30.8,3,Nonfiction,Lauren Faust
+350,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,2,Nonfiction,Krista Tippett
+351,Agnostic: A Spirited Manifesto,12.51,5,Nonfiction,Autor Desconocido
+352,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,4,Nonfiction,Autor Desconocido
+353,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,2,Nonfiction,Saban Entertainment
+354,The Year of Magical Thinking,43.04,2,Nonfiction,President Barack Obama
+355,The Literature Book (Big Ideas Simply Explained),17.43,3,Nonfiction,Autor Desconocido
+356,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,1,Nonfiction,Autor Desconocido
+357,Swell: A Year of Waves,45.58,1,Nonfiction,Autor Desconocido
+358,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,2,Nonfiction,William Shakespeare
+359,Looking for Lovely: Collecting the Moments that Matter,29.14,5,Nonfiction,Geetha Arts
+360,Let It Out: A Journey Through Journaling,26.79,5,Nonfiction,Autor Desconocido
+361,Hamilton: The Revolution,58.79,3,Nonfiction,Ron Chernow
+362,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,4,Nonfiction,Autor Desconocido
+363,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,5,Nonfiction,Autor Desconocido
+364,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,4,Nonfiction,Yuko Shimizu
+365,Brain on Fire: My Month of Madness,49.32,5,Nonfiction,Autor Desconocido
+366,Abstract City,56.37,5,Nonfiction,Wassily Kandinsky
+367,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,1,Nonfiction,Autor Desconocido
+368,The Lonely City: Adventures in the Art of Being Alone,33.26,2,Nonfiction,Disney Hyperion
+369,The Diary of a Young Girl,59.9,3,Nonfiction,Bonham Carter
+370,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,3,Nonfiction,Autor Desconocido
+371,Furiously Happy: A Funny Book About Horrible Things,41.46,4,Nonfiction,Kathy Bates
+372,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,4,Nonfiction,Autor Desconocido
+373,"Mother, Can You Not?",16.89,5,Nonfiction,Yoo Young-eun
+374,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,3,Nonfiction,Sue Klebold
+375,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,2,Nonfiction,BBC Television
+376,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,2,Nonfiction,Autor Desconocido
+377,"Zero to One: Notes on Startups, or How to Build the Future",34.06,3,Nonfiction,Autor Desconocido
+378,Why Not Me?,17.76,1,Nonfiction,Warner Records
+379,When Breath Becomes Air,39.36,2,Nonfiction,Joanna Goddard
+380,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,4,Nonfiction,Autor Desconocido
+381,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,5,Nonfiction,Paul Abbott
+382,Rising Strong,21.82,3,Nonfiction,Autor Desconocido
+383,Man's Search for Meaning,29.48,3,Nonfiction,Viktor E. Frankl
+384,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,2,Nonfiction,Autor Desconocido
+385,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,3,Nonfiction,Autor Desconocido
+386,I Will Find You,44.21,1,Nonfiction,Harlan Coben
+387,Brazen: The Courage to Find the You That's Been Hiding,19.22,2,Nonfiction,Lee Joon-ik
+388,Between the World and Me,56.91,4,Nonfiction,RCA Victor
+389,Being Mortal: Medicine and What Matters in the End,55.06,4,Nonfiction,Autor Desconocido
+390,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,3,Nonfiction,Autor Desconocido
+391,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,3,Nonfiction,Robert Towne
+392,Finding God in the Ruins: How God Redeems Pain,46.64,2,Nonfiction,Warner Bros. Pictures
+393,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,4,Nonfiction,Michael Nyman
+394,In Cold Blood,49.98,4,Nonfiction,Richard Brooks
+395,"Girl, Interrupted",42.14,3,Nonfiction,Susanna Kaysen
+396,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,2,Nonfiction,Autor Desconocido
+397,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,4,Nonfiction,Autor Desconocido
+398,My Mother Was Nuts,31.63,4,Nonfiction,Steven Zaillian
+399,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,3,Nonfiction,Kim Gordon
+400,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,3,Nonfiction,Annapurna Interactive
+401,The Gunning of America: Business and the Making of American Gun Culture,16.81,4,Nonfiction,Jim Cash
+402,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,2,Nonfiction,Casey Scharf
+403,God Is Not Great: How Religion Poisons Everything,27.8,1,Nonfiction,Timothy J. Keller
+404,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,3,Nonfiction,Vice President Theodore Roosevelt
+405,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,3,Nonfiction,George Washington
+406,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,1,Nonfiction,Autor Desconocido
+407,Under the Banner of Heaven: A Story of Violent Faith,30.0,1,Nonfiction,Dustin Lance Black
+408,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,1,Nonfiction,Autor Desconocido
+409,The Name of God is Mercy,37.25,2,Nonfiction,Orbit Books
+410,Stiff: The Curious Lives of Human Cadavers,36.74,3,Nonfiction,Mary Roach
+411,Spilled Milk: Based on a True Story,49.51,1,Nonfiction,Eric Kripke
+412,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,4,Nonfiction,Autor Desconocido
+413,Outliers: The Story of Success,14.16,1,Nonfiction,Soren Kaplan
+414,Notes from a Small Island (Notes From a Small Island #1),40.17,1,Nonfiction,Autor Desconocido
+415,Night (The Night Trilogy #1),13.51,1,Nonfiction,Richard Price
+416,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,1,Nonfiction,Tadashi Agi
+417,Letter to a Christian Nation,22.2,1,Nonfiction,Sam Harris
+418,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,1,Nonfiction,President Joe Biden
+419,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,1,Nonfiction,Son Lux
+420,Into the Wild,56.7,5,Nonfiction,Jon Krakauer. It
+421,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,3,Nonfiction,Erik Larson
+422,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,2,Nonfiction,Malala Yousafzai
+423,Gratitude,26.66,5,Nonfiction,Columbia Records
+424,Disrupted: My Misadventure in the Start-Up Bubble,15.28,5,Nonfiction,Autor Desconocido
+425,Brave Enough,51.32,5,Nonfiction,Lindsey Stirling
+426,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,2,Nonfiction,Autor Desconocido
+427,Blink: The Power of Thinking Without Thinking,21.74,5,Nonfiction,Autor Desconocido
+428,Black Flags: The Rise of ISIS,40.87,1,Nonfiction,Umberto Eco
+429,Are We Smart Enough to Know How Smart Animals Are?,56.58,1,Nonfiction,Autor Desconocido
+430,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,4,Nonfiction,Autor Desconocido
+431,"The Suffragettes (Little Black Classics, #96)",11.89,2,Nonfiction,Todd Cassetty
+432,Kindle Paperwhite User's Guide,34.0,3,Nonfiction,Autor Desconocido
+433,H is for Hawk,57.42,5,Nonfiction,Philippa Lowthorpe
+434,Travels with Charley: In Search of America,57.82,5,Nonfiction,John Steinbeck
+435,The Tumor,41.56,5,Nonfiction,John Grisham
+436,The End of the Jesus Era (An Investigation #1),14.4,1,Nonfiction,Autor Desconocido
+437,"Eat, Pray, Love",51.32,3,Nonfiction,Ryan Murphy
+438,Rip it Up and Start Again,35.02,5,Music,Simon Reynolds
+439,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,Music,Bloc Party
+440,How Music Works,37.32,2,Music,David Byrne
+441,Love Is a Mix Tape (Music #1),18.03,1,Music,Rob Sheffield
+442,Please Kill Me: The Uncensored Oral History of Punk,31.19,4,Music,Autor Desconocido
+443,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,5,Music,Bobby Byrd
+444,"Chronicles, Vol. 1",52.6,2,Music,Fantasy Records
+445,This Is Your Brain on Music: The Science of a Human Obsession,38.4,1,Music,W. W. Norton
+446,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,3,Music,Autor Desconocido
+447,No One Here Gets Out Alive,20.02,5,Music,Elektra Records
+448,Life,31.58,5,Music,Autor Desconocido
+449,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,2,Music,Sony Interactive Entertainment
+450,Forever Rockers (The Rocker #12),28.8,3,Music,Motown Records
+451,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,Default,Autor Desconocido
+452,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,Default,Daniel James Brown
+453,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,Default,Marvin Gaye
+454,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,3,Default,Autor Desconocido
+455,Aladdin and His Wonderful Lamp,53.13,3,Default,Paramount Pictures
+456,Penny Maybe,33.29,3,Default,Josh Ramsay
+457,Maude (1883-1993):She Grew Up with the country,18.02,2,Default,Autor Desconocido
+458,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,5,Default,Autor Desconocido
+459,Soul Reader,39.58,2,Default,Capitol Records
+460,Bossypants,49.46,2,Default,David Foster Wallace
+461,A World of Flavor: Your Gluten Free Passport,42.95,1,Default,Autor Desconocido
+462,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,5,Default,Autor Desconocido
+463,Tracing Numbers on a Train,41.6,3,Default,Apple Inc
+464,Thirteen Reasons Why,52.72,1,Default,Dylan Minnette
+465,The Secret (The Secret #1),27.37,4,Default,M. L. Kirk
+466,The Psychopath Test: A Journey Through the Madness Industry,36.0,2,Default,Autor Desconocido
+467,The Kite Runner,41.82,4,Default,Riverhead Books
+468,The Girl on the Train,55.02,2,Default,Larry Brand
+469,The Emerald Mystery,23.15,2,Default,Maurice Doreal
+470,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,3,Default,A. Baillet
+471,The Art of War,33.34,5,Default,Autor Desconocido
+472,Secrets and Lace (Fatal Hearts #1),20.27,1,Default,Jilly Cooper
+473,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,1,Default,Neil Gaiman
+474,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,1,Default,Autor Desconocido
+475,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,1,Default,Jane Goldman
+476,Large Print Heart of the Pride,19.15,2,Default,Thomas Cobb
+477,Grumbles,22.16,2,Default,Autor Desconocido
+478,First Steps for New Christians (Print Edition),29.0,1,Default,Charles Monroe Sheldon. First
+479,Eureka Trivia 6.0,54.59,4,Default,Nielsen Media Research
+480,Drive: The Surprising Truth About What Motivates Us,34.95,4,Default,Daniel Pink. The
+481,Done Rubbed Out (Reightman & Bailey #1),37.72,5,Default,Anirudh Ravichander
+482,Beauty Restored (Riley Family Legacy Novellas #3),11.11,2,Default,Lucius Apuleius Madaurensis
+483,Ayumi's Violin,15.48,2,Default,Avex Trax
+484,Anonymous,46.82,4,Default,John Orloff. The
+485,Amy Meets the Saints and Sages,18.46,3,Default,Rupert Lowe
+486,Amatus,50.54,5,Default,Autor Desconocido
+487,V for Vendetta (V for Vendetta Complete),37.1,4,Default,Alan Moore
+488,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,2,Default,Laura Hillenbrand
+489,The Wright Brothers,56.8,4,Default,Autor Desconocido
+490,The Songs of the Gods,44.48,5,Default,Humble Games
+491,The Rosie Project (Don Tillman #1),54.04,1,Default,Text Publishing
+492,The Power of Habit: Why We Do What We Do in Life and Business,16.88,3,Default,Charles Duhigg
+493,Steve Jobs,39.5,5,Default,Aaron Sorkin.
+494,Luckiest Girl Alive,49.83,3,Default,Jessica Knoll
+495,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,4,Default,Jiang Zemin
+496,Lady Midnight (The Dark Artifices #1),16.28,5,Default,Cassandra Clare
+497,"Hush, Hush (Hush, Hush #1)",47.02,3,Default,Robert Aldrich
+498,Greek Mythic History,10.23,5,Default,Autor Desconocido
+499,Every Last Word,46.47,3,Default,Kim Fupz Aakeson
+500,Daily Fantasy Sports,36.58,1,Default,Autor Desconocido
+501,Clockwork Angel (The Infernal Devices #1),44.14,1,Default,Cassandra Clare
+502,City of Fallen Angels (The Mortal Instruments #4),11.23,4,Default,Cassandra Clare
+503,City of Bones (The Mortal Instruments #1),43.28,1,Default,Jessica Postigo. The
+504,City of Ashes (The Mortal Instruments #2),47.27,1,Default,Cassandra Clare. The
+505,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,3,Default,Lo Wei
+506,Carrie,46.23,2,Default,Lawrence D. Cohen
+507,Angels & Demons (Robert Langdon #1),51.48,3,Default,Corgi Books
+508,"The Three Searches, Meaning, and the Story",13.33,3,Default,Terry Jones
+509,Raspberry Pi Electronics Projects for the Evil Genius,49.67,4,Default,Autor Desconocido
+510,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,5,Default,Autor Desconocido
+511,Eleanor & Park,56.51,5,Default,Rainbow Rowell. Published
+512,Troublemaker: Surviving Hollywood and Scientology,48.39,2,Default,Autor Desconocido
+513,Adultery,20.88,5,Default,Autor Desconocido
+514,Unlimited Intuition Now,58.87,4,Default,Ken Liu
+515,Underlying Notes,11.82,2,Default,Ofek Leumi Financial Instruments
+516,The New Brand You: Your New Image Makes the Sale for You,44.05,5,Default,Hayley Williams
+517,The Flowers Lied,16.68,2,Default,Mao Zedong
+518,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,4,Default,Autor Desconocido
+519,Modern Day Fables,47.44,2,Default,Bill Willingham
+520,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,5,Default,Rachel Joyce
+521,The Martian (The Martian #1),41.39,2,Default,DC Comics
+522,Left Behind (Left Behind #1),40.72,2,Default,Tim LaHaye
+523,John Vassos: Industrial Design for Modern Life,20.22,4,Default,Autor Desconocido
+524,I'll Give You the Sun,56.48,1,Default,Autor Desconocido
+525,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,2,Default,Don Piper
+526,Ender's Game (The Ender Quintet #1),43.64,1,Default,Gavin Hood
+527,Death by Leisure: A Cautionary Tale,37.51,4,Default,M. Karunanidhi
+528,Wildlife of New York: A Five-Borough Coloring Book,22.14,2,Default,Autor Desconocido
+529,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,1,Default,A. J. Jacobs
+530,The Great Gatsby,36.05,4,Default,Francis Ford Coppola. It
+531,The Good Girl,49.03,3,Default,Fox Searchlight Pictures
+532,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,4,Default,Autor Desconocido
+533,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,2,Default,Chuck Palahniuk
+534,Life of Pi,13.22,4,Default,Knopf Canada
+535,The Sound Of Love,57.84,5,Default,Autor Desconocido
+536,The Perks of Being a Wallflower,55.02,3,Default,Stephen Chbosky
+537,The Makings of a Fatherless Child,31.58,2,Default,Federico Fellini
+538,The Hobbit (Middle-Earth Universe),17.8,5,Default,Fran Walsh
+539,The Fellowship of the Ring (The Lord of the Rings #1),10.27,2,Default,Fran Walsh
+540,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,3,Default,Autor Desconocido
+541,Musicophilia: Tales of Music and the Brain,46.58,1,Default,Oliver Sacks
+542,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,4,Default,Randall Munroe
+543,The Fault in Our Stars,47.22,1,Default,Mercedes Ron
+544,The Dream Thieves (The Raven Cycle #2),34.5,1,Default,Autor Desconocido
+545,The 5th Wave (The 5th Wave #1),11.83,2,Default,Rich Tennant
+546,Shiver (The Wolves of Mercy Falls #1),16.23,5,Default,Maggie Stiefvater. Published
+547,Remember Me?,11.48,3,Default,Will Fetters. It
+548,If I Stay (If I Stay #1),38.13,5,Default,R. J. Cutler
+549,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,2,Default,Dana Gould
+550,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,1,Default,Bloomsbury Publishing
+551,Fool Me Once,16.96,1,Default,Autor Desconocido
+552,Drama,38.7,2,Default,Kristoffer Borgli
+553,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,5,Default,Lily Phillips
+554,Alight (The Generations Trilogy #2),58.59,4,Default,Autor Desconocido
+555,Vogue Colors A to Z: A Fashion Coloring Book,52.35,4,Default,Rolling Stone
+556,The Shining (The Shining #1),27.88,3,Default,Warner Bros.
+557,The Hunger Games (The Hunger Games #1),29.85,5,Default,Suzanne Collins
+558,Outlander (Outlander #1),19.67,5,Default,Diana Gabaldon
+559,Mockingjay (The Hunger Games #3),20.44,4,Default,Suzanne Collins
+560,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,3,Default,Steve Kloves
+561,Confessions of a Shopaholic (Shopaholic #1),48.94,2,Default,Sophie Kinsella
+562,Zero History (Blue Ant #3),34.77,1,Default,Tappei Nagatsuki
+563,World War Z: An Oral History of the Zombie War,21.8,1,Default,Studs Terkel
+564,Wild: From Lost to Found on the Pacific Crest Trail,46.02,3,Default,Nick Hornby
+565,"Where'd You Go, Bernadette",18.13,1,Default,Maria Semple
+566,Twilight (Twilight #1),41.93,2,Default,Stephenie Meyer
+567,The Paris Wife,36.8,3,Default,Peter Greenaway
+568,The Maze Runner (The Maze Runner #1),20.93,1,Default,James Dashner. It
+569,The Lover's Dictionary,58.09,2,Default,Christian Petzold
+570,The Goldfinch,43.58,3,Default,Peter Straughan
+571,The Giver (The Giver Quartet #1),12.3,1,Default,Philip Noyce
+572,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,2,Default,Autor Desconocido
+573,The Demon-Haunted World: Science as a Candle in the Dark,52.25,4,Default,Maharishi Mahesh Yogi
+574,The Book Thief,53.49,2,Default,Michael Petroni
+575,The Autobiography of Malcolm X,23.43,2,Default,Spike Lee
+576,Shopaholic & Baby (Shopaholic #5),46.45,2,Default,Sophie Kinsella
+577,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,1,Default,Carl Jung
+578,Packing for Mars: The Curious Science of Life in the Void,56.68,2,Default,Sadako Sasaki
+579,Orange Is the New Black,24.61,2,Default,Jenji Kohan
+580,One for the Money (Stephanie Plum #1),32.87,2,Default,Benny Andersson
+581,Morning Star (Red Rising #3),29.4,1,Default,Autor Desconocido
+582,Life After Life,26.13,2,Default,Kate Atkinson
+583,"Lean In: Women, Work, and the Will to Lead",25.02,1,Default,Sheryl Sandberg
+584,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,3,Default,Roger Nygard
+585,Gone Girl,37.6,5,Default,Ross Macdonald
+586,Fellside,38.62,1,Default,Paul Adams
+587,Eclipse (Twilight #3),18.74,1,Default,Melissa Rosenberg
+588,Dracula,52.62,3,Default,Sir Henry Irving
+589,Dead Wake: The Last Crossing of the Lusitania,39.24,5,Default,Robert Reading
+590,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,1,Default,Autor Desconocido
+591,Dark Places,23.9,5,Default,Gilles Paquet-Brenner
+592,Breaking Dawn (Twilight #4),35.28,5,Default,Melissa Rosenberg
+593,Beautiful Creatures (Caster Chronicles #1),21.55,5,Default,Richard LaGravenese
+594,A Visit from the Goon Squad,14.08,5,Default,Autor Desconocido
+595,The Zombie Room,19.69,5,Default,Marvel Studios Animation
+596,The Name of the Wind (The Kingkiller Chronicle #1),50.59,3,Default,Hayao Miyazaki
+597,Taking Shots (Assassins #1),18.88,2,Default,Bill Kennedy. The
+598,Shatter Me (Shatter Me #1),42.4,1,Default,Tahereh Mafi
+599,Paradise Lost (Paradise #1),24.96,1,Default,Yeon Sang-ho. Based
+600,On the Road (Duluoz Legend),32.36,3,Default,Steve Purcell
+601,Jane Eyre,38.43,5,Default,Moira Buffini
+602,Frankenstein,38.0,2,Default,Garrett Fort
+603,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,Science Fiction,Autor Desconocido
+604,Join,35.67,5,Science Fiction,Polydor Records
+605,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,4,Science Fiction,John Jackson Miller
+606,The Project,10.65,1,Science Fiction,Jonathan Tropper
+607,Soft Apocalypse,26.12,2,Science Fiction,Penguin Books
+608,Sleeping Giants (Themis Files #1),48.74,1,Science Fiction,Autor Desconocido
+609,Arena,21.36,4,Science Fiction,Autor Desconocido
+610,Foundation (Foundation (Publication Order) #1),32.42,1,Science Fiction,Gnome Press
+611,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,1,Science Fiction,Douglas Adams
+612,Ready Player One,19.07,4,Science Fiction,Steven Spielberg
+613,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,2,Science Fiction,Autor Desconocido
+614,Dune (Dune #1),54.86,1,Science Fiction,Denis Villeneuve
+615,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,1,Science Fiction,Tony Parker
+616,Three Wishes (River of Time: California #1),44.18,2,Science Fiction,Autor Desconocido
+617,The Last Girl (The Dominion Trilogy #1),36.26,2,Science Fiction,Autor Desconocido
+618,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,4,Science Fiction,Arnon Milchan
+619,The Book of Basketball: The NBA According to The Sports Guy,44.84,5,Sports and Games,Brian Powell
+620,"Friday Night Lights: A Town, a Team, and a Dream",51.22,3,Sports and Games,Buzz Bissinger
+621,Sugar Rush (Offensive Line #2),24.42,1,Sports and Games,Phil Johnston
+622,Settling the Score (The Summer Games #1),44.91,2,Sports and Games,Shawn Ku
+623,Icing (Aces Hockey #2),40.44,4,Sports and Games,Autor Desconocido
+624,The Torch Is Passed: A Harding Family Story,19.09,1,Add a comment,Autor Desconocido
+625,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,4,Add a comment,Autor Desconocido
+626,The Art Forger,40.76,3,Add a comment,Orson Welles
+627,On a Midnight Clear,14.07,3,Add a comment,Keith Gordon
+628,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,2,Add a comment,Autor Desconocido
+629,"Shobu Samurai, Project Aryoku (#3)",29.06,3,Add a comment,Autor Desconocido
+630,Modern Romance,28.26,5,Add a comment,Autor Desconocido
+631,The White Queen (The Cousins' War #1),25.91,5,Add a comment,Lucille La Verne
+632,The Song of Achilles,37.4,5,Add a comment,Autor Desconocido
+633,The Immortal Life of Henrietta Lacks,40.67,2,Add a comment,George Otto Gey
+634,The Dovekeepers,48.78,1,Add a comment,Karen Kingsbury
+635,More Than Music (Chasing the Dream #1),37.61,2,Add a comment,The Heatmakerz
+636,Code Name Verity (Code Name Verity #1),22.13,4,Add a comment,Elizabeth Wein
+637,Cell,20.29,4,Add a comment,Joko Anwar
+638,Angels Walking (Angels Walking #1),34.2,2,Add a comment,Jacques Demy
+639,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,2,Add a comment,Autor Desconocido
+640,A People's History of the United States,40.79,2,Add a comment,Beacon Press
+641,A Brush of Wings (Angels Walking #3),55.51,1,Add a comment,Autor Desconocido
+642,Rook,37.86,4,Add a comment,Stephenie Meyer
+643,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,1,Add a comment,James Cameron
+644,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,4,Add a comment,James Cameron
+645,The Children,11.88,3,Add a comment,Alfonso Cuar
+646,One with You (Crossfire #5),15.71,4,Add a comment,Brian Duffield
+647,Without Shame,48.27,5,Add a comment,Donovan Winter
+648,Watchmen,58.05,4,Add a comment,Alan Moore
+649,A Hero's Curse (The Unseen Chronicles #1),50.49,3,Add a comment,Stuart Beattie
+650,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,2,Add a comment,Autor Desconocido
+651,The Glass Castle,16.24,1,Add a comment,Autor Desconocido
+652,The Drowning Girls,35.67,3,Add a comment,Roy Lichtenstein
+653,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,5,Add a comment,Steven Spielberg
+654,John Adams,57.43,4,Add a comment,David McCullough
+655,Good in Bed (Cannie Shapiro #1),37.05,5,Add a comment,Warner Records
+656,The Joy of Cooking,43.27,4,Add a comment,A.C. Clayton
+657,The Golden Compass (His Dark Materials #1),18.77,1,Add a comment,Bad Wolf
+658,The God Delusion,46.85,3,Add a comment,Richard Dawkins
+659,Pride and Prejudice,19.27,4,Add a comment,Joe Wright
+660,Mere Christianity,48.51,3,Add a comment,C. S. Lewis
+661,Fun Home: A Family Tragicomic,56.59,4,Add a comment,Obie Award-winning
+662,The Raven King (The Raven Cycle #4),30.57,2,Add a comment,Portia Rosenberg
+663,Find Her (Detective D.D. Warren #8),22.37,1,Add a comment,Jennifer Iacopelli
+664,Evicted: Poverty and Profit in the American City,42.27,1,Add a comment,Autor Desconocido
+665,A Game of Thrones (A Song of Ice and Fire #1),46.42,2,Add a comment,George R. R. Martin
+666,A Clash of Kings (A Song of Ice and Fire #2),10.79,3,Add a comment,John Howe
+667,The Tipping Point: How Little Things Can Make a Big Difference,10.02,2,Add a comment,Autor Desconocido
+668,The Rest Is Noise: Listening to the Twentieth Century,34.77,1,Add a comment,Autor Desconocido
+669,The Purpose Driven Life: What on Earth Am I Here for?,37.19,3,Add a comment,Autor Desconocido
+670,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,3,Add a comment,Douglas Adams
+671,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,1,Add a comment,Stieg Larsson
+672,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,4,Add a comment,Sam Harris
+673,The Complete Poems,41.32,5,Add a comment,Philip Larkin
+674,The Catcher in the Rye,24.55,1,Add a comment,J. D. Salinger
+675,The Case for Christ (Cases for Christianity),47.84,1,Add a comment,Brian Bird
+676,The Blind Side: Evolution of a Game,53.71,5,Add a comment,Sandra Bullock
+677,Seven Days in the Art World,52.33,2,Add a comment,Rod Serling
+678,Sarah's Key,46.29,1,Add a comment,Gilles Paquet-Brenner. The
+679,Rogue Lawyer (Rogue Lawyer #1),50.11,3,Add a comment,John Grisham. It
+680,Manuscript Found in Accra,34.98,2,Add a comment,Autor Desconocido
+681,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,4,Add a comment,M. L. West
+682,Cosmos,36.17,2,Add a comment,Brannon Braga
+683,#GIRLBOSS,50.96,1,Add a comment,Kay Cannon
+684,The Sense of an Ending,31.38,3,Add a comment,Oxford University Press
+685,The Republic,33.78,3,Add a comment,Autor Desconocido
+686,The Odyssey,29.64,3,Add a comment,Stanley Kubrick
+687,The Light of the Fireflies,54.43,1,Add a comment,Isao Takahata
+688,The Iliad,16.16,1,Add a comment,Autor Desconocido
+689,The Communist Manifesto,14.76,3,Add a comment,Karl Schapper
+690,Lord of the Flies,24.89,3,Add a comment,Peter Brook
+691,Unicorn Tracks,18.78,3,Fantasy,The Wall Street Journal
+692,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,3,Fantasy,Dr. Kabapu
+693,Princess Between Worlds (Wide-Awake Princess #5),13.34,5,Fantasy,President Franklin D. Roosevelt
+694,Masks and Shadows,56.4,2,Fantasy,Autor Desconocido
+695,Crown of Midnight (Throne of Glass #2),43.29,3,Fantasy,Nikkhil Advani
+696,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,2,Fantasy,Gene Yang
+697,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,1,Fantasy,Ronald D. Moore
+698,Throne of Glass (Throne of Glass #1),35.07,3,Fantasy,Ronald D. Moore
+699,The Glittering Court (The Glittering Court #1),44.28,1,Fantasy,Dorothy Dunnett
+700,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,1,Fantasy,Ransom Riggs. It
+701,The Star-Touched Queen,46.02,5,Fantasy,Roshani Chokshi
+702,The Hidden Oracle (The Trials of Apollo #1),52.26,2,Fantasy,Autor Desconocido
+703,The Bane Chronicles (The Bane Chronicles #1-11),44.73,4,Fantasy,The Illearth War
+704,Island of Dragons (Unwanteds #7),29.65,1,Fantasy,Lisa McMann
+705,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,5,Fantasy,Penguin Books
+706,City of Glass (The Mortal Instruments #3),56.02,4,Fantasy,Cassandra Clare
+707,Searching for Meaning in Gailana,38.73,1,Fantasy,Autor Desconocido
+708,The Star-Touched Queen,32.3,5,Fantasy,Roshani Chokshi
+709,A Shard of Ice (The Black Symphony Saga #1),56.63,3,Fantasy,Daniel Joy
+710,King's Folly (The Kinsman Chronicles #1),39.61,5,Fantasy,Florenz Ziegfeld Jr
+711,Every Heart a Doorway (Every Heart A Doorway #1),12.16,5,Fantasy,Autor Desconocido
+712,A Gathering of Shadows (Shades of Magic #2),44.81,4,Fantasy,Autor Desconocido
+713,The Raven Boys (The Raven Cycle #1),57.74,4,Fantasy,Autor Desconocido
+714,The False Prince (The Ascendance Trilogy #1),56.0,5,Fantasy,Jennifer A. Nielsen
+715,Tell the Wind and Fire,45.51,3,Fantasy,Paul McCartney
+716,A Feast for Crows (A Song of Ice and Fire #4),17.21,4,Fantasy,Autor Desconocido
+717,The Demonists (Demonist #1),52.11,2,Fantasy,Autor Desconocido
+718,The Beast (Black Dagger Brotherhood #14),46.08,5,Fantasy,Cameron Alexander
+719,Paper and Fire (The Great Library #2),49.45,5,Fantasy,Natasha Ngan
+720,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,4,Fantasy,Steve Kloves
+721,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,5,Fantasy,Steve Kloves
+722,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,1,Fantasy,Scholastic Inc
+723,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,4,Fantasy,Border Reivers
+724,Soldier (Talon #3),24.72,2,Fantasy,Square Enix
+725,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,2,Fantasy,Lee Sullivan
+726,Heir to the Sky,44.07,4,Fantasy,Hayao Miyazaki
+727,Eragon (The Inheritance Cycle #1),43.87,3,Fantasy,Peter Buchman
+728,Darkfever (Fever #1),56.02,1,Fantasy,Delacorte Press
+729,Ash,22.06,4,Fantasy,Lightstorm Entertainment
+730,A Storm of Swords (A Song of Ice and Fire #3),31.22,2,Fantasy,Charles Vess
+731,Vampire Girl (Vampire Girl #1),53.82,2,Fantasy,Melinda Hsu Taylor
+732,The Silent Twin (Detective Jennifer Knight #3),36.25,3,Fantasy,Team Silent
+733,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,1,Fantasy,Charlie Brooker
+734,Sister Sable (The Mad Queen #1),13.33,3,Fantasy,Parks Canada
+735,Shadow Rites (Jane Yellowrock #10),21.72,4,Fantasy,Virgin Records
+736,Origins (Alphas 0.5),28.99,1,Fantasy,Mike Cahill
+737,One Second (Seven #7),52.94,2,Fantasy,Zhang Yimou
+738,Myriad (Prentor #1),58.75,4,Fantasy,Apple Inc.
+739,Without Borders (Wanderlove #1),45.07,2,New Adult,Karen Oganesyan
+740,The Mistake (Off-Campus #2),43.29,3,New Adult,Belift Lab
+741,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,1,New Adult,Autor Desconocido
+742,The Hook Up (Game On #1),36.29,5,New Adult,Sire Records
+743,Shameless,58.35,3,New Adult,Paul Abbott
+744,Off Sides (Off #1),39.45,5,New Adult,Peter Landin
+745,The Requiem Red,22.65,1,Young Adult,Keita Amemiya
+746,Set Me Free,17.46,5,Young Adult,Melanie Fontana
+747,The Natural History of Us (The Fine Art of Pretending #2),45.22,3,Young Adult,Autor Desconocido
+748,Obsidian (Lux #1),14.86,2,Young Adult,DC Comics
+749,Burning,28.81,3,Young Adult,Autor Desconocido
+750,A Fierce and Subtle Poison,28.13,4,Young Adult,Frank Herbert
+751,Scarlett Epstein Hates It Here,43.55,5,Young Adult,ABC. However
+752,"Nightingale, Sing",38.28,1,Young Adult,John Keats
+753,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,5,Young Adult,Ransom Riggs
+754,Frostbite (Vampire Academy #2),29.99,5,Young Adult,Dominique Jean Larrey
+755,Wild Swans,14.36,2,Young Adult,Jung Chang
+756,Until Friday Night (The Field Party #1),46.31,2,Young Adult,H. G. Bissinger
+757,This Is Where It Ends,27.12,2,Young Adult,Alexander Ullom
+758,The Darkest Lie,35.35,5,Young Adult,Autor Desconocido
+759,My Kind of Crazy,40.36,1,Young Adult,Autor Desconocido
+760,Don't Get Caught,55.35,1,Young Adult,Autor Desconocido
+761,Catching Jordan (Hundred Oaks),50.83,3,Young Adult,Bantam Books
+762,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,4,Young Adult,Aitch Alberto
+763,The Epidemic (The Program 0.6),14.44,5,Young Adult,Autor Desconocido
+764,Stars Above (The Lunar Chronicles #4.5),48.05,2,Young Adult,Interscope Records
+765,No Love Allowed (Dodge Cove #1),54.65,4,Young Adult,Chris Coelen
+766,"Exit, Pursued by a Bear",51.34,4,Young Adult,William Shakespeare
+767,The Alien Club,54.4,1,Young Adult,Noah Hawley
+768,Don't Forget Steven,33.23,1,Young Adult,Autor Desconocido
+769,South of Sunshine,28.93,1,Young Adult,Lee Chang-dong
+770,My Life Next Door (My Life Next Door ),36.39,5,Young Adult,Shin Ha-eun
+771,Future Shock (Future Shock #1),55.65,5,Young Adult,Alvin Toffler
+772,Nightstruck: A Novel,50.35,4,Young Adult,Autor Desconocido
+773,Tell the Wolves I'm Home,50.96,2,Young Adult,Autor Desconocido
+774,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,4,Young Adult,DC Comics
+775,Where She Went (If I Stay #2),41.73,4,Young Adult,Autor Desconocido
+776,Two Summers,14.64,1,Young Adult,Autor Desconocido
+777,The Darkest Corners,11.33,5,Young Adult,Urve Tamberg
+778,Tell Me Three Things,41.81,1,Young Adult,Meaghan Oppenheimer
+779,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,4,Young Adult,Autor Desconocido
+780,Kill the Boy Band,15.52,5,Young Adult,Boy Kill Boy
+781,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,5,Young Adult,Colin Trevorrow
+782,An Abundance of Katherines,10.0,5,Young Adult,John Green
+783,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,4,Young Adult,Steve Kloves. Production
+784,Walk the Edge (Thunder Road #2),32.36,3,Young Adult,Autor Desconocido
+785,Two Boys Kissing,32.74,2,Young Adult,Adam Elliot
+786,The New Guy (and Other Senior Year Distractions),44.92,3,Young Adult,Sanjay Patel
+787,"The Land of 10,000 Madonnas",29.64,4,Young Adult,Autor Desconocido
+788,Scarlet (The Lunar Chronicles #2),14.57,4,Young Adult,Marvel Comics
+789,Legend (Legend #1),43.69,4,Young Adult,Autor Desconocido
+790,Lady Renegades (Rebel Belle #3),53.04,5,Young Adult,Sally Wainwright
+791,Golden (Heart of Dread #3),42.21,4,Young Adult,Dick Clark Productions
+792,Cinder (The Lunar Chronicles #1),26.09,1,Young Adult,Freya Marske
+793,Boy Meets Boy,21.12,3,Young Adult,David Levithan
+794,Annie on My Mind,36.83,5,Young Adult,Hoagy Carmichael
+795,New Moon (Twilight #2),12.86,4,Young Adult,Melissa Rosenberg
+796,Girl Online On Tour (Girl Online #2),53.47,1,Young Adult,Heart Management
+797,The Haters,27.89,5,Young Adult,Colleen Ballinger
+798,The Art of Not Breathing,40.83,4,Young Adult,Autor Desconocido
+799,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,4,Science,Tim Birkhead
+800,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,5,Science,Autor Desconocido
+801,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,4,Science,Autor Desconocido
+802,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,1,Science,Carl Sagan
+803,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,1,Science,Brian Greene
+804,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,1,Science,Autor Desconocido
+805,The Origin of Species,10.01,4,Science,Charles Darwin
+806,The Grand Design,13.76,3,Science,Autor Desconocido
+807,Peak: Secrets from the New Science of Expertise,16.28,2,Science,Autor Desconocido
+808,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,4,Science,Brian Greene
+809,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,5,Science,Autor Desconocido
+810,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,2,Science,Diebold Inc
+811,Seven Brief Lessons on Physics,30.6,4,Science,Benedict Cumberbatch
+812,The Selfish Gene,29.45,1,Science,Autor Desconocido
+813,A Light in the Attic,51.77,3,Poetry,Hiroshi Yoshimura
+814,The Black Maria,52.15,1,Poetry,Autor Desconocido
+815,Shakespeare's Sonnets,20.66,4,Poetry,Autor Desconocido
+816,Olio,23.88,1,Poetry,Autor Desconocido
+817,You can't bury them all: Poems,33.63,2,Poetry,Thomas Gray
+818,Slow States of Collapse: Poems,57.31,3,Poetry,Zeng Qingjie
+819,Untitled Collection: Sabbath Poems 2014,14.27,4,Poetry,Autor Desconocido
+820,Poems That Make Grown Women Cry,14.19,4,Poetry,Autor Desconocido
+821,Night Sky with Exit Wounds,41.05,1,Poetry,Kang Kyeong-ae
+822,salt.,46.78,4,Poetry,Autor Desconocido
+823,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,5,Poetry,Samantha Jayne
+824,Out of Print: City Lights Spotlight No. 14,53.64,5,Poetry,William Wyler
+825,Les Fleurs du Mal,29.04,5,Poetry,Charles Baudelaire
+826,Howl and Other Poems,40.45,2,Poetry,Allen Ginsberg
+827,Leave This Song Behind: Teen Poetry at Its Best,51.17,5,Poetry,Buena Vista Pictures Distribution
+828,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,5,Poetry,W. B. Yeats
+829,The Crossover,38.77,4,Poetry,Autor Desconocido
+830,Booked,17.49,5,Poetry,Autor Desconocido
+831,Twenty Love Poems and a Song of Despair,30.95,4,Poetry,Autor Desconocido
+832,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,1,Paranormal,Matsuri Hino
+833,Wall and Piece,44.18,4,Art,Autor Desconocido
+834,Feathers: Displays of Brilliant Plumage,49.05,3,Art,Autor Desconocido
+835,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,4,Art,Autor Desconocido
+836,The New Drawing on the Right Side of the Brain,43.02,3,Art,Autor Desconocido
+837,History of Beauty,10.29,4,Art,Linda Woolverton
+838,The Story of Art,41.14,4,Art,Schirmer Books
+839,The Art Book,32.34,2,Art,Autor Desconocido
+840,Ways of Seeing,39.51,5,Art,Autor Desconocido
+841,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,1,Psychology,Autor Desconocido
+842,The Golden Condom: And Other Essays on Love Lost and Found,39.43,1,Psychology,Autor Desconocido
+843,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,3,Psychology,Yoji Shinkawa
+844,An Unquiet Mind: A Memoir of Moods and Madness,21.3,3,Psychology,Alfred A. Knopf
+845,"Thinking, Fast and Slow",21.14,1,Psychology,Autor Desconocido
+846,Civilization and Its Discontents,59.95,2,Psychology,Sigmund Freud
+847,8 Keys to Mental Health Through Exercise,31.04,1,Psychology,Autor Desconocido
+848,The Argonauts,10.93,2,Autobiography,Apollonius Rhodius
+849,M Train,27.18,1,Autobiography,Patti Smith. Smith
+850,Lab Girl,40.85,1,Autobiography,Alfred A. Knopf
+851,Approval Junkie: Adventures in Caring Too Much,58.81,5,Autobiography,Spike Jonze
+852,Running with Scissors,12.91,4,Autobiography,Futures Music Group
+853,Me Talk Pretty One Day,57.6,2,Autobiography,Autor Desconocido
+854,Lust & Wonder,11.87,2,Autobiography,Augusten Burroughs
+855,Life Without a Recipe,59.04,5,Autobiography,Ray Charles
+856,A Heartbreaking Work of Staggering Genius,54.29,5,Autobiography,Dave Eggers. Published
+857,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,2,Parenting,Autor Desconocido
+858,Fifty Shades Freed (Fifty Shades #3),15.36,5,Adult Fiction,Niall Leonard
+859,The Long Haul (Diary of a Wimpy Kid #9),44.07,1,Humor,Autor Desconocido
+860,Old School (Diary of a Wimpy Kid #10),11.83,5,Humor,Duke Bootee
+861,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,4,Humor,MICA Team
+862,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,5,Humor,Allie Brosh
+863,Dress Your Family in Corduroy and Denim,43.68,3,Humor,Autor Desconocido
+864,Toddlers Are A**holes: It's Not Your Fault,25.55,1,Humor,Autor Desconocido
+865,When You Are Engulfed in Flames,30.89,5,Humor,Autor Desconocido
+866,Naked,31.69,3,Humor,Anna Richardson
+867,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,5,Humor,Autor Desconocido
+868,Holidays on Ice,51.07,2,Humor,Medusa Music Group GmbH
+869,Security,39.25,2,Horror,Autor Desconocido
+870,Follow You Home,21.36,1,Horror,Danny McNamara
+871,The Loney,23.4,1,Horror,Autor Desconocido
+872,Pet Sematary,10.56,3,Horror,Stephen King
+873,Doctor Sleep (The Shining #2),40.12,2,Horror,Mike Flanagan
+874,Psycho: Sanitarium (Psycho #1.5),36.97,5,Horror,John Carpenter
+875,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,1,Horror,Simon Mayhew-Archer
+876,Red Dragon (Hannibal Lecter #1),23.37,3,Horror,Ted Tally. The
+877,Dracula the Un-Dead,35.63,5,Horror,Bram Stoker
+878,Night Shift (Night Shift #1-20),12.75,4,Horror,Ron Howard
+879,Needful Things,47.51,4,Horror,Leland Gaunt
+880,Misery,34.79,2,Horror,William Goldman
+881,It,25.01,3,Horror,David Robert Mitchell
+882,'Salem's Lot,49.56,4,Horror,Mikael Salomon
+883,The Stand,57.86,2,Horror,Epic Records
+884,The Girl with All the Gifts,49.47,3,Horror,M. R. Carey
+885,House of Leaves,54.89,1,Horror,Natsume Ono
+886,Sapiens: A Brief History of Humankind,54.23,5,History,Autor Desconocido
+887,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,1,History,Autor Desconocido
+888,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,1,History,Autor Desconocido
+889,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,2,History,Autor Desconocido
+890,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,1,History,Autor Desconocido
+891,Zealot: The Life and Times of Jesus of Nazareth,24.7,3,History,Autor Desconocido
+892,A Distant Mirror: The Calamitous 14th Century,14.58,3,History,Autor Desconocido
+893,1491: New Revelations of the Americas Before Columbus,21.8,3,History,Autor Desconocido
+894,Brilliant Beacons: A History of the American Lighthouse,11.45,3,History,Autor Desconocido
+895,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,5,History,Alan Taylor
+896,A Short History of Nearly Everything,52.4,5,History,Autor Desconocido
+897,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,2,History,Autor Desconocido
+898,Catherine the Great: Portrait of a Woman,58.55,4,History,Catherine II
+899,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,5,History,Autor Desconocido
+900,The Hiding Place,55.91,4,History,World Wide Pictures
+901,America's War for the Greater Middle East: A Military History,51.22,2,History,Autor Desconocido
+902,The Guns of August,14.54,2,History,Barbara W. Tuchman. After
+903,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,2,History,Discovery Channel
+904,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,3,Food and Drink,American Public Television
+905,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,1,Food and Drink,Autor Desconocido
+906,My Paris Kitchen: Recipes and Stories,33.37,2,Food and Drink,Autor Desconocido
+907,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,4,Food and Drink,Autor Desconocido
+908,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,1,Food and Drink,Autor Desconocido
+909,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,5,Food and Drink,Autor Desconocido
+910,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,2,Food and Drink,Autor Desconocido
+911,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,1,Food and Drink,Autor Desconocido
+912,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,3,Food and Drink,Autor Desconocido
+913,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,3,Food and Drink,Autor Desconocido
+914,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,1,Food and Drink,Autor Desconocido
+915,Barefoot Contessa Back to Basics,28.01,1,Food and Drink,Metro Channel
+916,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,5,Food and Drink,Autor Desconocido
+917,My Kitchen Year: 136 Recipes That Saved My Life,11.53,2,Food and Drink,Nicholas Pileggi
+918,Everyday Italian: 125 Simple and Delicious Recipes,20.1,5,Food and Drink,Giada De Laurentiis
+919,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,1,Food and Drink,Autor Desconocido
+920,Cravings: Recipes for What You Want to Eat,20.5,3,Food and Drink,Autor Desconocido
+921,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,4,Food and Drink,Ten Speed Press
+922,32 Yolks,53.63,2,Food and Drink,Autor Desconocido
+923,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,5,Food and Drink,Autor Desconocido
+924,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,4,Food and Drink,Autor Desconocido
+925,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,2,Food and Drink,Autor Desconocido
+926,The Barefoot Contessa Cookbook,59.92,5,Food and Drink,Autor Desconocido
+927,Better Homes and Gardens New Cook Book,39.61,3,Food and Drink,People Inc
+928,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,5,Food and Drink,Autor Desconocido
+929,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,5,Food and Drink,Autor Desconocido
+930,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,2,Food and Drink,Autor Desconocido
+931,The Smitten Kitchen Cookbook,23.59,1,Food and Drink,Deb Perelman
+932,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,3,Food and Drink,Autor Desconocido
+933,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,3,Food and Drink,Lisa Lillien
+934,Redeeming Love,20.47,5,Christian Fiction,Fox Faith
+935,Close to You,49.46,4,Christian Fiction,Burt Bacharach
+936,Shadows of the Past (Logan Point #1),39.67,5,Christian Fiction,J. A. Bayona
+937,Like Never Before (Walker Family #2),28.77,2,Christian Fiction,Hans Thomas
+938,Counted With the Stars (Out from Egypt #1),17.97,5,Christian Fiction,James Lees
+939,If I Run (If I Run #1),49.97,4,Christian Fiction,Isekai Records
+940,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,Business,Franklin Leonard
+941,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,5,Business,Autor Desconocido
+942,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,3,Business,Orin Smith
+943,Shoe Dog: A Memoir by the Creator of NIKE,23.99,2,Business,Jeremy Allen White
+944,Made to Stick: Why Some Ideas Survive and Others Die,38.85,5,Business,Rosser Reeves
+945,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,1,Business,Autor Desconocido
+946,The Art of Startup Fundraising,21.0,3,Business,Fortune Magazine
+947,Born for This: How to Find the Work You Were Meant to Do,21.59,5,Business,Dean DeBlois
+948,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,1,Business,Peter Rees
+949,"Rich Dad, Poor Dad",51.74,1,Business,Robert T. Kiyosaki
+950,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,3,Business,Autor Desconocido
+951,Rework,44.88,2,Business,Autor Desconocido
+952,Louisa: The Extraordinary Life of Mrs. Adams,16.85,2,Biography,Augustus Saint-Gaudens
+953,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,2,Biography,Pope Pius IX
+954,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,1,Biography,Autor Desconocido
+955,Benjamin Franklin: An American Life,48.19,3,Biography,Benjamin Franklin
+956,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,3,Biography,Autor Desconocido
+957,In Her Wake,12.84,1,Thriller,Epic Games Publishing
+958,The Elephant Tree,23.82,5,Thriller,Autor Desconocido
+959,Behind Closed Doors,52.22,4,Thriller,Apurva Asrani
+960,You (You #1),43.61,5,Thriller,Harlan Coben
+961,The Guilty (Will Robie #4),13.82,2,Thriller,Arc System Works
+962,The 14th Colony (Cotton Malone #11),39.24,1,Thriller,Clogs. It
+963,Give It Back,18.32,2,Thriller,Paul McCartney
+964,Killing Floor (Jack Reacher #1),31.49,4,Thriller,Lee Child
+965,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,3,Thriller,Universal Studios Home Entertainment
+966,Far From True (Promise Falls Trilogy #2),34.93,2,Thriller,John Schlesinger
+967,The Travelers,15.77,1,Thriller,Thomas Mallon
+968,When We Collided,31.77,1,Contemporary,Open Road Films
+969,Someone Like You (The Harrisons #2),52.79,5,Contemporary,Tony Goldwyn
+970,We Are All Completely Beside Ourselves,24.04,1,Contemporary,Autor Desconocido
+971,The Four Agreements: A Practical Guide to Personal Freedom,17.66,5,Spirituality,Autor Desconocido
+972,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,5,Spirituality,Autor Desconocido
+973,Chasing Heaven: What Dying Taught Me About Living,37.8,2,Spirituality,Elia Kazan
+974,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,1,Spirituality,Autor Desconocido
+975,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,2,Spirituality,Autor Desconocido
+976,A New Earth: Awakening to Your Life's Purpose,55.65,5,Spirituality,Eckhart Tolle
+977,Logan Kade (Fallen Crest High #5.5),13.12,2,Academic,Marvel Comics
+978,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,1,Self Help,Drew Goddard. It
+979,How to Be Miserable: 40 Strategies You Already Use,46.03,1,Self Help,Mark Zuckerberg
+980,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,3,Self Help,Autor Desconocido
+981,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,3,Self Help,Sergio Leone
+982,How to Stop Worrying and Start Living,46.49,5,Self Help,Stanley Kubrick
+983,All the Light We Cannot See,29.87,5,Historical,Nazi Germany
+984,The Girl You Left Behind (The Girl You Left Behind #1),15.79,1,Historical,Takahiro Miki
+985,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,5,Christian,Autor Desconocido
+986,Crazy Love: Overwhelmed by a Relentless God,47.72,2,Christian,Francis Chan
+987,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,1,Christian,Autor Desconocido
+988,Silence in the Dark (Logan Point #4),58.33,3,Suspense,Lyntone Productions
+989,The Grownup,35.88,1,Short Stories,Dennis Dugan
+990,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,5,Novels,Autor Desconocido
+991,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,3,Health,Autor Desconocido
+992,"Eat Fat, Get Thin",54.07,2,Health,Autor Desconocido
+993,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,5,Health,Autor Desconocido
+994,The Art and Science of Low Carbohydrate Living,52.98,5,Health,Autor Desconocido
+995,Libertarianism for Beginners,51.33,2,Politics,Autor Desconocido
+996,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,4,Politics,Autor Desconocido
+997,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,1,Politics,Autor Desconocido
+998,Amid the Chaos,36.58,1,Cultural,Richard Neville
+999,Dark Notes,19.19,5,Erotica,Tsugumi Ohba
+1000,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,1,Crime,William Morrow
